@@ -46,14 +46,14 @@ export const usersData: UserData[] = [
     title: "Full Stack Developer",
     avatar: "/images/devang-profile.png",
     bio: "I'm a passionate full-stack developer with 5 years of experience building web applications. I specialize in React, Node.js, and cloud technologies. I enjoy solving complex problems and creating intuitive user experiences. Currently focused on building scalable applications and exploring new technologies.",
-    location: "San Francisco, CA",
+    location: "Mira road East, Thane",
     email: "maybedevang29@gmail.com",
     phone: "8369743238",
-    github: "https://github.com/devanggupta",
-    linkedin: "https://linkedin.com/in/devanggupta",
+    github: "https://github.com/devang-altf4",
+    linkedin: "https://www.linkedin.com/in/devang-gupta-267475343/",
     experience: [
       {
-        title: "Senior Frontend Developer",
+        title: "Junior Frontend Developer",
         company: "Tech Innovations Inc.",
         location: "San Francisco, CA",
         period: "Jan 2021 - Present",
@@ -82,14 +82,14 @@ export const usersData: UserData[] = [
     ],
     education: [
       {
-        degree: "M.S. in Computer Science",
-        institution: "Stanford University",
-        location: "Stanford, CA",
-        period: "2014 - 2016",
+        degree: "BSC IT",
+        institution: "Mumbai University",
+        location: "Mumbai, Thane",
+        period: "2023 - 2026",
         description:
           "Focused on web technologies and software engineering. Participated in research projects related to web performance optimization.",
         achievements: [
-          "GPA: 3.8/4.0",
+          "GPA: 7.5/10",
           "Published a paper on web performance optimization",
           "Teaching Assistant for Web Development course",
         ],
